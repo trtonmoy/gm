@@ -179,7 +179,7 @@ a {
 }
 
 .main_right_side p:nth-child(2) {
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 
 .main_right_side .btns_container {
